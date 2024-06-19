@@ -5,7 +5,7 @@ Algorithms and Programming course.
 
 
 ## Project Overview
-Sorting algorithms are fundamental to computer science, and understanding their efficiency is crucial for optimizing applications. This project aims to:
+Sorting algorithms are fundamental for understanding how data can be efficiently organized and accessed. Understanding their efficiency is crucial for optimizing applications. This project aims to:
 
 - Implement Various Sorting Algorithms: Includes implementations of **Bubble Sort, Heap Sort, Insertion Sort, Quick Sort, and Selection Sort**.
 - Analyze Performance: Measure and compare the performance of each algorithm using time complexity and practical runtime.
@@ -13,7 +13,7 @@ Sorting algorithms are fundamental to computer science, and understanding their 
 
 
 ## Features
-- Algorithm Implementations: Clean, easy to edit (which will be explained in the 'Edit' section).
+- Algorithm Implementations: Clean, easy to edit (which will be explained in the 'How To Use' section).
 - Performance Metrics: Detailed analysis of time and space complexity.
 - Visualizations: Graphical visualizations of the sorting process.
 
@@ -33,3 +33,9 @@ The matlab program is just to analyze the data more mathematically, it uses fmin
 <div align="center">
     <img alt="Matlab Output" src="images/Matlab Output.png">
 </div>
+
+
+
+
+
+<h5>Thank you for seeing this project!</h5>
